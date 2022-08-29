@@ -1,0 +1,14 @@
+C:\Users\017557631\source\repos\Uri2031\Uri2031\obj\Debug\netcoreapp3.1\Uri2031.csproj.AssemblyReference.cache
+C:\Users\017557631\source\repos\Uri2031\Uri2031\obj\Debug\netcoreapp3.1\Uri2031.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017557631\source\repos\Uri2031\Uri2031\obj\Debug\netcoreapp3.1\Uri2031.AssemblyInfoInputs.cache
+C:\Users\017557631\source\repos\Uri2031\Uri2031\obj\Debug\netcoreapp3.1\Uri2031.AssemblyInfo.cs
+C:\Users\017557631\source\repos\Uri2031\Uri2031\obj\Debug\netcoreapp3.1\Uri2031.csproj.CoreCompileInputs.cache
+C:\Users\017557631\source\repos\Uri2031\Uri2031\bin\Debug\netcoreapp3.1\Uri2031.exe
+C:\Users\017557631\source\repos\Uri2031\Uri2031\bin\Debug\netcoreapp3.1\Uri2031.deps.json
+C:\Users\017557631\source\repos\Uri2031\Uri2031\bin\Debug\netcoreapp3.1\Uri2031.runtimeconfig.json
+C:\Users\017557631\source\repos\Uri2031\Uri2031\bin\Debug\netcoreapp3.1\Uri2031.runtimeconfig.dev.json
+C:\Users\017557631\source\repos\Uri2031\Uri2031\bin\Debug\netcoreapp3.1\Uri2031.dll
+C:\Users\017557631\source\repos\Uri2031\Uri2031\bin\Debug\netcoreapp3.1\Uri2031.pdb
+C:\Users\017557631\source\repos\Uri2031\Uri2031\obj\Debug\netcoreapp3.1\Uri2031.dll
+C:\Users\017557631\source\repos\Uri2031\Uri2031\obj\Debug\netcoreapp3.1\Uri2031.pdb
+C:\Users\017557631\source\repos\Uri2031\Uri2031\obj\Debug\netcoreapp3.1\Uri2031.genruntimeconfig.cache
